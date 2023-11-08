@@ -1,16 +1,18 @@
-### Hi there 👋
+### About Me \ Обо мне
+Меня зовут Иван Круглов и я junior data analyst. 
 
-<!--
-**quantority/quantority** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+В данный момент я студент, получаю второе высшее образование по направлению "Финансы и банковское дело".
 
-Here are some ideas to get you started:
+Меня всегда интересовала работа аналитиком, поэтому я решил начать освоение этой профессии с курса "Аналитик данных" от Яндекс Практикум.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Как известно у самурая нет цели, есть только путь, поэтому прохождение этого курса лишь первый шаг на моем пути...🐺
+
+### Languages & Tools \ Языки и инструменты
+* Python
+* PostgreSQL
+* Jupyter
+* Эконометрический пакет Gretl
+
+### Connect with me \ Связаться со мной
+[![Telegram](https://img.shields.io/badge/-Telegram-008B8B?style=for-the-badge&logo=Telegram)](https://t.me/kaleidoscope_dream) 
+[![Email](https://img.shields.io/badge/-Email-008B8B?style=for-the-badge&logo=Gmail)](mailto:i.krugo057@gmail.com)
