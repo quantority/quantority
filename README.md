@@ -1,8 +1,6 @@
 ### Languages & Tools \ Языки и инструменты
 * Python
 * PostgreSQL
-* Jupyter
-* Эконометрический пакет Gretl
 
 
 
