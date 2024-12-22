@@ -1,6 +1,7 @@
 ### Languages & Tools \ Языки и инструменты
 * Python
 * PostgreSQL
+* GIT
 
 
 
